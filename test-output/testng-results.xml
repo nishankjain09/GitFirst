@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38836" started-at="2019-07-16T04:21:07Z" finished-at="2019-07-16T04:21:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38836" started-at="2019-07-16T04:21:07Z" finished-at="2019-07-16T04:21:46Z">
+      <class name="Academy.E2EProject.HomeTest">
+        <test-method status="PASS" signature="baseNavigation(java.lang.String, java.lang.String)[pri:0, instance:Academy.E2EProject.HomeTest@4439f31e]" name="baseNavigation" duration-ms="19744" started-at="2019-07-16T09:51:07Z" data-provider="getData" finished-at="2019-07-16T09:51:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nishankjain09@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nishankjain09]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseNavigation -->
+        <test-method status="PASS" signature="baseNavigation(java.lang.String, java.lang.String)[pri:0, instance:Academy.E2EProject.HomeTest@4439f31e]" name="baseNavigation" duration-ms="19061" started-at="2019-07-16T09:51:27Z" data-provider="getData" finished-at="2019-07-16T09:51:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[divya09@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[divyajain09]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseNavigation -->
+      </class> <!-- Academy.E2EProject.HomeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
