@@ -23,6 +23,9 @@ public class HomeTest extends base{
 		driver.get(url);
 		log.info("Navigate to the homepage");	
 		LoginPage loginOb = new LoginPage(driver);
+		log.info("Navigate to the homepage");	
+		log.info("Navigate to the homepage");	
+		log.info("Navigate to the homepage");	
 	//	l.getLogin().click();
 		loginOb.enterUsername().sendKeys(username);
 		loginOb.enterPassword().sendKeys(password);
